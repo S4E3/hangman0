@@ -1,7 +1,7 @@
 # Hangman
 
 ## Description
-This is my first attempt at creating a Hangman game using python. Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
+This is my first attempt at creating a Hangman game using python. Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts. multiple commits were made whilst progressing through the project.
 
 # Table of Contents
 1. [Installation](#installation)
