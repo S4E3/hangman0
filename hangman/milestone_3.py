@@ -22,10 +22,13 @@ def ask_for_input():
             if(guess.isalpha() == True):
                 break
             else:
-                print("Invalid letter. Please, enter a single alphabetical character.")        
+                invalid_input()   
         else:
-            print("Invalid letter. Please, enter a single alphabetical character.")
+            invalid_input()
     check_guess(guess)
+
+def invalid_input():
+    print("Invalid letter. Please, enter a single alphabetical character.")
 
 ask_for_input()
  
