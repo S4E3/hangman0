@@ -1,8 +1,7 @@
 # Hangman
 
 ## Description
-Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
-This is an implementation of the Hangman game, where the computer thinks of a word and the user tries to guess it.
+This is my first attempt at creating a Hangman game using python. Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
 
 # Table of Contents
 1. [Installation](#installation)
@@ -11,12 +10,13 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 4. [Licencing](#licencing)
 
 ## Installation
+Download the milestone_5.py file and run using a command line program like bash. 
 
 ## Usage
-To run the file, simply run the python command on the milestone_4.py file in the terminal.
+The final implementation of this code is in the milestone_5.py file. call the play_game function from this file to play Hangman.
 
 ## FileStructure
-This project was created using milestones. Once one was reached, a new .py file was created to complete the next.
+This project was created using milestones. Once one was reached, a new .py file was created to complete the next. This can be used to see the progression of this project from start to finish.
 
 ## Licencing
 MIT License
